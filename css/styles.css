@@ -1,0 +1,16 @@
+body {padding-top: 50px; }
+#content {padding-left: 20px;}
+footer{float: right;padding:10px;}
+header.banner {margin-bottom: 50px;text-align:center;color:#fff;background-color:#b84d45;background-image:url(../images/bg.png)}
+header.banner .brand-name {display:block;font-size:50px;line-height:1}
+header.banner h1{font-size:24px;line-height:1;margin:20px 0}
+header.banner p{font-size:16px;color:rgba(255,255,255,.8);line-height:1.4}
+header.banner p a{color:#fff;text-decoration: none;}
+header.banner img.logo{margin-bottom:50px}
+header.banner .btn-cta{margin:20px 0 0;padding:10px 15px;border:1px solid #fff;background-color:transparent;color:#fff;font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:400;font-size:14px}
+header.banner .btn-cta:hover{color:#b84d45;background-color:#fff}
+@media (min-width:768px){header.banner{padding: 100px 0;}header.banner .brand-name{font-size:80px}header.banner h1{font-size:34px}header.banner p{font-size:20px}header.banner .btn-cta{padding:15px 20px;font-size:18px}}
+.login {color: white;float: right;height: 50px;padding-top: 8px;}
+.item {border-bottom: 1px solid gray;padding-bottom: 20px;padding-top: 20px;}
+.whites {color: white;}
+.fix {height: 30px;}
